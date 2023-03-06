@@ -1,0 +1,55 @@
+body{
+    border:3px solid rgba(8, 7, 7, 0.76);
+    margin: 0;
+    padding:0;
+}
+
+h2{
+    font-weight: bold;
+    font-family:sans-serif;
+    text-align: center;
+    text-transform:uppercase;
+}
+
+img{
+    margin-left: 25%;
+    width: 50%;
+    height: auto;
+}
+#price{
+    font-weight: bold;
+    font-family:sans-serif;
+    text-transform:uppercase;
+}
+
+#ship{
+    text-transform: uppercase;
+    font-size:smaller;
+    font-weight:400;
+}
+
+a:link{
+    color: black;
+}
+a:hover{
+    text-decoration: none;
+}
+
+#listmain{
+    font-size:medium;
+    text-transform: uppercase;
+}
+
+li{
+    list-style-type: square;
+}
+
+button{
+    color: aliceblue;
+    background-color: black;
+}
+button:hover{
+    text-decoration: none;
+    background-color: aliceblue;
+    color: black;
+}
